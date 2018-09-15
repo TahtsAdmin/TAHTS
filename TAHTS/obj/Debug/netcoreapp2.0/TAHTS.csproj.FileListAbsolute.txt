@@ -1,0 +1,14 @@
+C:\Projects\TAHTS\TAHTS\bin\Debug\netcoreapp2.0\TAHTS.deps.json
+C:\Projects\TAHTS\TAHTS\bin\Debug\netcoreapp2.0\TAHTS.runtimeconfig.json
+C:\Projects\TAHTS\TAHTS\bin\Debug\netcoreapp2.0\TAHTS.runtimeconfig.dev.json
+C:\Projects\TAHTS\TAHTS\bin\Debug\netcoreapp2.0\TAHTS.dll
+C:\Projects\TAHTS\TAHTS\bin\Debug\netcoreapp2.0\TAHTS.pdb
+C:\Projects\TAHTS\TAHTS\obj\Debug\netcoreapp2.0\TAHTS.csproj.CoreCompileInputs.cache
+C:\Projects\TAHTS\TAHTS\obj\Debug\netcoreapp2.0\TAHTS.AssemblyInfoInputs.cache
+C:\Projects\TAHTS\TAHTS\obj\Debug\netcoreapp2.0\TAHTS.AssemblyInfo.cs
+C:\Projects\TAHTS\TAHTS\obj\Debug\netcoreapp2.0\TAHTS.dll
+C:\Projects\TAHTS\TAHTS\obj\Debug\netcoreapp2.0\TAHTS.pdb
+C:\Projects\Tahts\TAHTS\obj\Debug\netcoreapp2.0\TAHTS.csprojResolveAssemblyReference.cache
+C:\Projects\Tahts\TAHTS\bin\Debug\netcoreapp2.0\TAHTSData.dll
+C:\Projects\Tahts\TAHTS\bin\Debug\netcoreapp2.0\TAHTSData.pdb
+C:\Projects\Tahts\TAHTS\obj\Debug\netcoreapp2.0\TAHTS.csproj.CopyComplete

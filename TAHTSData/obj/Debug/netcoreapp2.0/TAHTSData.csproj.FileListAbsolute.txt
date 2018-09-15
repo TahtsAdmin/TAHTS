@@ -1,0 +1,9 @@
+C:\Projects\TAHTS\TAHTSData\bin\Debug\netcoreapp2.0\TAHTSData.deps.json
+C:\Projects\TAHTS\TAHTSData\bin\Debug\netcoreapp2.0\TAHTSData.dll
+C:\Projects\TAHTS\TAHTSData\obj\Debug\netcoreapp2.0\TAHTSData.csprojResolveAssemblyReference.cache
+C:\Projects\TAHTS\TAHTSData\obj\Debug\netcoreapp2.0\TAHTSData.csproj.CoreCompileInputs.cache
+C:\Projects\TAHTS\TAHTSData\obj\Debug\netcoreapp2.0\TAHTSData.AssemblyInfoInputs.cache
+C:\Projects\TAHTS\TAHTSData\obj\Debug\netcoreapp2.0\TAHTSData.AssemblyInfo.cs
+C:\Projects\Tahts\TAHTSData\bin\Debug\netcoreapp2.0\TAHTSData.pdb
+C:\Projects\Tahts\TAHTSData\obj\Debug\netcoreapp2.0\TAHTSData.dll
+C:\Projects\Tahts\TAHTSData\obj\Debug\netcoreapp2.0\TAHTSData.pdb

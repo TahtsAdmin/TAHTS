@@ -24,7 +24,7 @@ namespace TAHTS.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "You may contact us via email with any questions you may have. Someone will get back with you as soon as possible.";
 
             return View();
         }
